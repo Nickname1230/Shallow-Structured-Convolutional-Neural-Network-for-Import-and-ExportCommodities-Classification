@@ -1,1 +1,3 @@
 # Shallow-Structured-Convolutional-Neural-Network-for-Import-and-ExportCommodities-Classification
+
+浅层卷积神经网络，利用Pad浅层卷积操作，避免卷积过程中破坏结构化文本的结构语义信息，并依靠辅助网络提取具有关键性的分类特征，在真实中国海关商品进出口报关单商品编号分类任务中，结果优于BERT以及RoBERTa
